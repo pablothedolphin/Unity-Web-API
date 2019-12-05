@@ -1,0 +1,13 @@
+{
+  "name": "com.open.unity-web-api",
+  "displayName": "Unity Web API",
+  "author": "Jak Hussain",
+  "version": "0.1.0-preview",
+  "unity": "2018.4",
+  "description": "Adds a convenient helper scriptable object type that simplifies the process of defining and running web requests in unity down to a single line API.",
+  "keywords": [
+    "Open Source",
+    "Module"
+  ],
+  "category": "Open Source"
+}

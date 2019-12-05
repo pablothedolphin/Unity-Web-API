@@ -1,0 +1,19 @@
+/*
+
+/*/
+
+!.gitignore
+!README.md
+
+# Include the main folders needed
+!Unity Web API/
+!docs/
+!docfx/
+
+# Ignore everything inside project folder
+Unity Web API/*
+
+# Select which folders become included
+!Unity Web API/Assets/
+!Unity Web API/ProjectSettings/
+!Unity Web API/Packages/
